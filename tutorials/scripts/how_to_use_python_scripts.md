@@ -1,4 +1,4 @@
-# Python Scripts
+﻿# Python Scripts
 
 ## Installing Python 3.6
 
@@ -54,7 +54,7 @@ Pillow is required for image manipulation. Install with pip:
 
 ### Windows
 
-Open *Powershell* or `cmd.exe` (only if the former is not installed). Type `python -m` and paste everything after the `$` symbol behind it.
+Open *Powershell* or `cmd.exe` (only if the former is not installed). Type `python -m` and paste everything after the `Dollar` symbol behind it.
 
 Example:
 
@@ -76,7 +76,7 @@ The script can now be used properly.
 
 ### Linux
 
-Open the terminal and paste everything after the `$` symbol into the terminal.
+Open the terminal and paste everything after the `Dollar` symbol into the terminal.
 
 Example:
 
